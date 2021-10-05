@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppMovil</string>
+    <string name="Texto2">Esta es la actividad 2</string>
+    <string name="title1">Bienvenido a la AppMovil</string>
+    <string name="subtitle1">Selecciona la tecnología</string>
+    <string name="location">OBTENER UBICACIÓN</string>
+    <string name="MapsButton">Actividad Maps</string>
+    <string name="title_activity_actividad_maps">Mapa</string>
+</resources>

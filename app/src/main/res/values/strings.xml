@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMovil</string>
+    <string name="title1">Welcome to AppMovil</string>
+    <string name="Texto2">This is activity 2</string>
+    <string name="subtitle1">Choose the technology</string>
+    <string name="g2" translatable="false">GSM</string>
+    <string name="g3" translatable="false">WCDMA</string>
+    <string name="g4" translatable="false">LTE</string>
+    <string name="location">GET LOCATION</string>
+    <string name="title_activity_actividad_maps">Map</string>
+    <string name="MapsButton">Maps Activity</string>
+
+
+</resources>
